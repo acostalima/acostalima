@@ -15,9 +15,10 @@ My name is André Costa Lima. I'm a software engineer from Portugal mostly worki
 
 - [4service NFC](https://www.tridonic.com/com/en/products/companionsuite-4service-nfc-app.asp) (as Lead Developer @ [MOXY.studio](https://moxy.studio/))
 
-## 📰 My posts
+## 📰 Writing
 
-- [Enhancing React Native apps with MOXY boilerplate](https://hackernoon.com/enhancing-react-native-applications-with-moxy-boilerplate-hg1l3txk) 
+- [Enhancing React Native apps with MOXY boilerplate](https://hackernoon.com/enhancing-react-native-applications-with-moxy-boilerplate-hg1l3txk)
+- [Today I Learned](https://til.andrecostalima.dev/)
 
 ## 📫 Follow and reach out
 
