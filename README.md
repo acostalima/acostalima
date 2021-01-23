@@ -24,3 +24,4 @@ My name is André Costa Lima. I'm a software engineer from Portugal mostly worki
 - [Twitter](https://twitter.com/acostalima_pt)
 - [Medium](https://medium.com/@acostalima)
 - [DEV](https://dev.to/acostalima)
+- [LinkedIn](https://www.linkedin.com/in/andrecostalima/?locale=en_US)
