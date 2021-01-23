@@ -8,8 +8,8 @@ My name is André Costa Lima. I'm a software engineer from Portugal mostly worki
 
 - [Fetch API with text streaming support for React Native](https://github.com/react-native-community/fetch)
 - [Unit and integration test runner for React Native](https://github.com/acostalima/react-native-test-runner)
-- [React Native with MOXY boilerplate](https://github.com/moxystudio/react-native-with-moxy)
 - [Utility to wait for side-effect and asynchronous Redux actions](https://github.com/moxystudio/redux-await-actions)
+- [React Native with MOXY boilerplate](https://github.com/moxystudio/react-native-with-moxy)
 
 ## 🚀 Published apps
 
