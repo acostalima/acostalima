@@ -2,7 +2,13 @@
 
 My name is André Costa Lima. I'm a software engineer from Portugal mostly working with JavaScript nowadays and developing for the web and mobile.
 
-**Tech stack**: React.js, Next.js, React Native, Node.js and Jest.
+### Tech stack
+
+- React.js
+- Next.js
+- React Native
+- Node.js
+- Jest
 
 ## 🚀 Key open-source projects
 
