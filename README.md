@@ -6,6 +6,8 @@ My name is André Costa Lima. I'm a software engineer from Portugal mostly worki
 
 - React.js
 - Next.js
+- Webpack
+- Redux
 - React Native
 - Node.js
 - Jest
