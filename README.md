@@ -21,7 +21,7 @@ My name is André Costa Lima. I'm a software engineer from Portugal developing f
 
 ## 🚀 Published apps
 
-- [4service NFC](https://www.tridonic.com/com/en/products/companionsuite-4service-nfc-app.asp) (as Lead Software Engineer @ [MOXY.studio](https://moxy.studio/))
+- [4service NFC](https://www.tridonic.com/com/en/products/companionsuite-4service-nfc-app.asp) as Lead Software Engineer @ [MOXY.studio](https://moxy.studio/)
 
 ## ✍️ Writing
 
