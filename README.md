@@ -26,7 +26,7 @@ My name is André Costa Lima. I'm a software engineer from Portugal developing f
 ## ✍️ Writing
 
 - [Enhancing React Native apps with MOXY boilerplate](https://hackernoon.com/enhancing-react-native-applications-with-moxy-boilerplate-hg1l3txk)
-- [Today I Learned](https://til.andrecostalima.dev/)
+- [Today I Learned](https://til.andrecostalima.pt/)
 
 ## 📫 Follow and reach out
 
