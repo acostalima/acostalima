@@ -1,6 +1,6 @@
 # Hello there! <img align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
 
-My name is André Costa Lima. I'm a software engineer from Portugal developing for the web and mobile with JavaScript.
+My name is André Costa Lima. I'm a software engineer from Portugal developing for the web and mobile.
 
 ### Tech stack
 
